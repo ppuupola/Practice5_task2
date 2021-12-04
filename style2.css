@@ -1,0 +1,91 @@
+.Rob_Boy{
+    background-color: rgb(162, 238, 228);
+      height: 300px;
+}
+
+.Rob_Boy h1{
+    
+    text-align: center;
+    color: grey;
+}
+.Rob_Boy p{
+    color: grey;
+
+
+}
+
+#blue{
+    color: blue;
+}
+
+.Volume_1{
+    background-color: rgb(162, 238, 228);
+      height: 200px;
+
+}
+
+.Volume_1 h1{
+    text-align: center;
+    color: grey;
+
+}
+
+.Volume_1 p{
+    color: grey;
+
+}
+
+.ADVERTISEMENT{
+    background-color: rgb(162, 238, 228);
+      height: 400px;
+
+}
+
+.ADVERTISEMENT h1{
+    text-align: center;
+    color: grey;
+}
+
+.ADVERTISEMENT p{
+    color: grey;
+    line-height: 200%;
+
+
+
+}
+
+.INTRODUCTION{
+    background-color: rgb(162, 238, 228);
+      height: 500px;
+
+}
+
+.INTRODUCTION h1{
+    text-align: center;
+    color: grey;
+}
+
+.INTRODUCTION p{
+    color: grey;
+    line-height: 200%;
+
+
+}
+
+.CHAPTER{
+    background-color: rgb(162, 238, 228);
+      height: 900px;
+
+}
+
+.CHAPTER h1{
+    text-align: center;
+    color: grey;
+}
+
+.CHAPTER p{
+    color: grey;
+    line-height: 200%;
+
+
+}
